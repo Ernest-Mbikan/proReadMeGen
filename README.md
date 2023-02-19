@@ -1,9 +1,9 @@
-# adfds
+# Professional ReadMe Generator
   ![license: MIT](https://img.shields.io/badge/license-MIT-yellow.svg)
 
   ## Description
 
-  asdfdf
+  This app generates a high quality Readme.md file by taking user input at the terminal.
     
   ## Table of Contents 
   * [Project Description](#Description)
@@ -14,22 +14,22 @@
   * [License](#License)
 
   ## Description
-  asdfdf
+  This app generates a high quality Readme.md file by taking user input at the terminal.
 
   ## Usage
-  afdf
+  javaSacript, Node.js and npm packages.
 
   ## Contributing
-  fadfdf
+  The following made useful contribution: Ernest Mbikan, UOB Bothcamp instructor.
 
   ## Installation
   To install necessary dependencies, run the following command:
   ```
-  dfadsf
+  npm install (i)
   ```
 
   ## Questions
 
-  If you have any questions about the repo, open an issue or contact me directly at dasfdf. You can find more of my work at [dasfdsf](https://github.com/dasfdsf/).
+  If you have any questions about the repo, open an issue or contact me directly at ernestmbiks@hotmail.com. You can find more of my work at [ernestmbiks](https://github.com/ernestmbiks/).
 
   
