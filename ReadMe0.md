@@ -30,5 +30,8 @@ When a user is prompted for information about the application repository then a 
 
 ## Demo
 
-The link below demonstrates the completed application.
+A sample readme.md file generated using the app is included in the PROREADME (main) folder. Follow the link for a video walk-through video.
+
+
+
 ![https://1drv.ms/v/s!AlFDfpmVPBAnvFXzK2ID1-aQnZWz?e=59sh0J]('https://1drv.ms/v/s!AlFDfpmVPBAnvFXzK2ID1-aQnZWz?e=59sh0J')
